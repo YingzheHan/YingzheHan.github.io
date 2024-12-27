@@ -1,4 +1,39 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Yingzhe's Website"
 theme = 'digitalgarden'
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Research'
+  url = '/Research'
+  weight = 2
+[[menu.main]]
+  name = 'Publications'
+  url = '/Publications'
+  weight = 3
+
+[[menu.social]]
+  name = 'Email'
+  url = 'hyz210104@gmail.com'
+  weight = 1
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com/YingzheHan'
+  weight = 2
+[[menu.social]]
+  name = 'LinkedIn'
+  url = 'https://www.linkedin.com/in/yingzhe-han-09b2592b7/'
+  weight = 3
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true

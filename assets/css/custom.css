@@ -1,0 +1,21 @@
+.md\:basis-60 {
+    flex-basis: 20rem;
+}
+.lg\:w-\[580px\] {
+    width: 100%;
+}
+.prose {
+    max-width: 120ch;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    font-size: large;
+}
+
+p {
+    font-size: large;
+}

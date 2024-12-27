@@ -1,20 +1,24 @@
 ---
-title: Homepage
+title: BIOGRAPHY
 ---
 
-# Hello 👋
+# BIOGRAPHY
 
-**Welcome to my digital garden!**
+I am Yingzhe Han (韩颖哲), a first-year Ph.D. student in the Department of Bioengineering at the University of Pittsburgh. I am working in [Laboatory of Ocular Biomechanics](https://www.ocularbiomechanics.com/) under the supervision of [Dr. Ian Sigal](https://www.ocularbiomechanics.com/People.html). My research interests include ocular biomechanics and computational modeling. I am currently working on the development of fiber models to simulate the biomechanical behavior of the optic nerve head in glaucoma.
 
-A digital garden is like a personal wiki and a knowledge database of thoughts and ideas. Similar to a traditional garden, a digital one will also container various kinds of content (plants), of which may even be unrelated to each other. Ideas are not refined, thoughts are not tailored. Here is an excellent write-up about the [history of digital gardens](https://maggieappleton.com/garden-history)
+## Education
+- M.S. in Engineering Mechanics, [Xi'an Jiaotong University](https://xjtu.edu.cn/) (Shaanxi, China), 2024
+- B.S. in Engineering Mechanics, [Xi'an Jiaotong University](https://xjtu.edu.cn/) (Shaanxi, China), 2021
 
+## Professional/Work Experience
+- Visiting Graduate Student, [University of Pittsburgh](https://www.pitt.edu/), August 2023 - May 2024
+- Research Assistant, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), June 2022 - August 2023
 
-Twitter, for some, is also equivalent to a digital garden. It lets you share thoughts and ideas with everyone. But how often do you go back to those tweets? Not often. That's why you need a space for your ideas on the internet **that you own**. Check out `Digital gardens let you cultivate your own little bit of the internet` [post](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) by MIT technology review 
+## Teaching Experience
+- None 
 
-<hr />
+## Fellowship & Grants
+- None
 
-Building your own digital garden is not a fad. It's a necessity. Tools like Roam Research, Obsidian and Notion provided means to interlink content, even over a graphical way. Still not sold? Check out [The Digital Garden](https://dev.to/jbranchaud/the-digital-garden-l10) by Josh Branchaud.
-
-Start collecting your ideas 💡, curate thought provoking & interesting content 💬&nbsp; and learn.
-
-→ [Go to Documentation](/articles)
+## Honors & Awards
+- None
